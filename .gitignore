@@ -4,6 +4,7 @@
 /working_files
 *.sublime-project
 *.sublime-workspace
+*.log
 
 # OS generated files #
 ######################
