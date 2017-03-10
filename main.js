@@ -25,4 +25,5 @@ github.on('web-hook-demo:refs/heads/master', function (event, data) {
             console.log(error);
         }
     });
+    console.log("Build complete!");
 });
